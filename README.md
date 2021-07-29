@@ -7,7 +7,6 @@
 ## https://www.youtube.com/channel/UCyGlSiaw_lzq-_Nkn70oUUQ (PROJE SUNUMU)
 ## Grup projesidir. Projenin Yöneticisiyim.
 
-![Admin Resmi](https://i.hizliresim.com/9wizp0x.png)
 ![Admin Resmi](https://i.hizliresim.com/b96yqi5.png)
 ![Admin Resmi](https://i.hizliresim.com/gwcmblj.png)
 ![Admin Resmi](https://i.hizliresim.com/50e90py.png)
