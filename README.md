@@ -5,7 +5,7 @@
 ## https://www.linkedin.com/company/kad%C4%B1n%C4%B1n-de%C4%9Feri/
 ## https://twitter.com/KadHayatt
 ## https://www.youtube.com/channel/UCyGlSiaw_lzq-_Nkn70oUUQ (PROJE SUNUMU)
-## Grup projesidir. Projenin Yöneticisiyim.
+
 
 ![Admin Resmi](https://i.hizliresim.com/b96yqi5.png)
 ![Admin Resmi](https://i.hizliresim.com/gwcmblj.png)
