@@ -1,5 +1,5 @@
 # Kadının değeri bilincini aşılamak amacıyla yola çıktığımız sosyal sorumluluk projesidir.
-# https://kadinindegeri.42web.io (Wordpress)
+# https://kadinindegeri.42web.io
 ## https://www.instagram.com/kadinn_hayattir/
 ## https://www.tiktok.com/@kadin_hayattir?lang=en
 ## https://www.linkedin.com/company/kad%C4%B1n%C4%B1n-de%C4%9Feri/
